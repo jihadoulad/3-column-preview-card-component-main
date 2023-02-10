@@ -1,0 +1,74 @@
+body {
+    padding: 100px 235px;
+    font-size: 15px;
+    font-family: 'Lexend Deca';
+    background-color: hsl(0, 0%, 95%);;
+}
+
+p {
+    color: hsla(0, 0%, 100%, 0.75);
+    padding-bottom: 70px;
+    
+}
+h1 {
+    color: hsl(0, 0%, 95%);
+    font-family: 'Big Shoulders Display';
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+button {
+    border-radius: 50px;
+    padding: 10px 25px;
+    border: none;
+    
+    
+}
+
+.card {
+    border-right-width: 0px;
+}
+.card-body {
+    padding: 50px;
+}
+
+
+.card-group {
+    height: 400px;
+}
+
+.left-card {
+    background-color: hsl(31, 77%, 52%);
+    border-radius: 8px 0px 0px 8px;
+}
+
+.mid-card {
+    background-color: hsl(184, 100%, 22%);
+}
+
+.right-card {
+    background-color: hsl(179, 100%, 13%);
+    border-radius: 0px 8px 8px 0px;
+
+}
+
+.card-border-left {
+    border-radius: 8px 0px 0px 8px;
+}
+
+.card-border-right {
+    border-radius: 0px 8px 8px 0px;
+}
+
+
+.orange-color {
+    color:hsl(31, 77%, 52%);
+}
+
+.bleu-color {
+    color: hsl(184, 100%, 22%);
+}
+
+.green-color {
+    color:hsl(179, 100%, 13%);
+}
